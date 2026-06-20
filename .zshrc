@@ -159,6 +159,7 @@ source $(brew --prefix)/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 
 
 . "$HOME/.local/bin/env"
+source ~/.dotfiles/zsh-config/npm-jf.zsh 2>/dev/null
 
 
 # Added by codebase-memory-mcp install
